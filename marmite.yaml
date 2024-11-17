@@ -1,6 +1,6 @@
-name: Your Blog
+name: just a test
 tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+url: https://rochacbruno-archive.github.io/bla
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
